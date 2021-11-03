@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larryuc
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Computers Science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Netsolutions.cl 
 - 📫 How to reach me in larry.uribe@netsolutions.cl
